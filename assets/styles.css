@@ -1,0 +1,29 @@
+*
+.Logo {
+    width: 150px;
+    margin-left: 900px;
+
+
+}
+
+.Imagen1 {
+    width: 1300px;
+    height: 400px;
+}
+
+.Titulo {
+    color: blue;
+    
+    width: 1800px;
+}
+
+table {
+    background-color: aqua;
+    padding: 0px;
+}
+
+tr {
+    background-color: chartreuse;
+    padding: 100px;
+}
+
